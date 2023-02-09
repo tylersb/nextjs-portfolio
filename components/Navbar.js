@@ -79,7 +79,7 @@ export default function Navbar() {
               </svg>
             )}
           </Link>
-          <Link
+          {/* <Link
             href="/experience"
             className={`text-base  ${
               router.asPath === '/experience'
@@ -103,7 +103,7 @@ export default function Navbar() {
                 />
               </svg>
             )}
-          </Link>
+          </Link> */}
           {/* <Link
             href="/contact"
             className={`text-base  ${
@@ -194,12 +194,12 @@ export default function Navbar() {
         >
           Projects
         </Link>
-        <Link
+        {/* <Link
           href="/experience"
           className="text-base font-normal text-gray-600 dark:text-gray-300"
         >
           Experience
-        </Link>
+        </Link> */}
         {/* <Link
           href="/contact"
           className="text-base font-normal text-gray-600 dark:text-gray-300"
