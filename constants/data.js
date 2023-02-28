@@ -7,6 +7,11 @@ const userData = {
   address: 'CA, USA',
   projects: [
     {
+      title: 'Chat App',
+      link: 'https://chat.tylerbenbrook.com',
+      imgUrl: '/ezchat.png'
+    },
+    {
       title: 'Food Delivery App',
       link: 'https://nimble-chimera-2ff671.netlify.app/',
       imgUrl: '/axiosfood.jpg'
@@ -15,11 +20,6 @@ const userData = {
       title: 'Workout Tracker',
       link: 'https://t-workout-tracker.herokuapp.com/',
       imgUrl: '/workouttracker.png'
-    },
-    {
-      title: 'Portfolio',
-      link: 'https://www.tylerbenbrook.com',
-      imgUrl: '/portfolio.png'
     }
   ],
   about: {
