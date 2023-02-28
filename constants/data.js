@@ -44,7 +44,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    'https://docs.google.com/document/d/112eHQTgdqv6xGe0MyNCPCF9Ntr-822FZ5-dsA_Gk3MI/edit?usp=sharing',
+    'https://docs.google.com/document/d/112eHQTgdqv6xGe0MyNCPCF9Ntr-822FZ5-dsA_Gk3MI',
   socialLinks: {
     linkedin: 'https://linkedin.com/in/tyler-benbrook',
     github: 'https://github.com/tylersb'
