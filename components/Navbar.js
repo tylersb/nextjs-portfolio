@@ -79,6 +79,16 @@ export default function Navbar() {
               </svg>
             )}
           </Link>
+          <a
+            download
+            href="/Tyler Benbrook Updated Resume.pdf"
+            alt="Resume"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={'text-gray-600 dark:text-gray-300 font-normal'}
+          >
+            Resume
+          </a>
           {/* <Link
             href="/experience"
             className={`text-base  ${
