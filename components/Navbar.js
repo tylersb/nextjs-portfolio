@@ -80,8 +80,7 @@ export default function Navbar() {
             )}
           </Link>
           <a
-            download
-            href="/Tyler Benbrook Updated Resume.pdf"
+            href="https://docs.google.com/document/d/112eHQTgdqv6xGe0MyNCPCF9Ntr-822FZ5-dsA_Gk3MI"
             alt="Resume"
             target="_blank"
             rel="noopener noreferrer"
